@@ -1,3 +1,6 @@
 today we are discussing git
 
 We will look at branches in git
+
+I spent the last memory refreshing my memory on Git 
+I can't believe I had forgotten alot already
